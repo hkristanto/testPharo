@@ -1,0 +1,14 @@
+{
+	"category" : "Internship-PharoGithub",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Student",
+	"pools" : [
+		 ],
+	"super" : "Human",
+	"type" : "normal" }
