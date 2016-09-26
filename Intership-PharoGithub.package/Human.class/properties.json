@@ -8,6 +8,7 @@
 	"instvars" : [
 		"firstName",
 		"lastName",
+		"motherName",
 		"nickName" ],
 	"name" : "Human",
 	"pools" : [
